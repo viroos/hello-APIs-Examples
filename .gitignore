@@ -1,2 +1,5 @@
 R.java
 *.class
+*.apk
+bin
+.settings

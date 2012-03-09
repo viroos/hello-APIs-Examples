@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    
+    <string name="URI">http://xkcd.com/info.0.json</string>
 
-    <string name="hello">Hello World, HelloApisExamplesActivity!</string>
+    <string name="hello">Hello APIs</string>
     <string name="app_name">HelloApisExamples</string>
+    <string name="httpClient">get JSON with HTTP Client</string>
+    <string name="httpURLConnection">get JSON with HTTP Url Connection</string>
 
 </resources>

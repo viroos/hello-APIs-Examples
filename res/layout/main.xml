@@ -9,4 +9,27 @@
         android:layout_height="wrap_content"
         android:text="@string/hello" />
 
+    <Button
+        android:id="@+id/httpClientButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="false"
+        android:onClick="httpClientOnClick"
+        android:text="@string/httpClient" />
+    
+        <Button
+        android:id="@+id/urlConnectionButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="false"
+        android:onClick="httpURLConnectionOnClick"
+        android:text="@string/httpURLConnection" />
+
+    <ImageView
+        android:id="@+id/xkcdImageView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:onClick="clearImage"
+        />
+
 </LinearLayout>

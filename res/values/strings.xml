@@ -8,5 +8,8 @@
     <string name="httpClient">get JSON with HTTP Client</string>
     <string name="httpURLConnection">get JSON with HTTP Url Connection</string>
     <string name="hello_fb">Hello APIs Facebook API example</string>
+    <string name="update_status">Uaktualnij status</string>
+    
+    
 
 </resources>

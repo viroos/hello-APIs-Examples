@@ -1,7 +1,10 @@
-package pl.mobiledeveloper;
+package pl.mobiledeveloper.helloapis.http;
 
 import java.net.URI;
 import java.net.URISyntaxException;
+
+import pl.mobiledeveloper.R;
+
 
 import android.app.Activity;
 import android.content.res.Resources;

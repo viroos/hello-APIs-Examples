@@ -3,9 +3,10 @@
     
     <string name="URI">http://xkcd.com/info.0.json</string>
 
-    <string name="hello">Hello APIs</string>
+    <string name="hello_http">Hello APIs HTTP examples</string>
     <string name="app_name">HelloApisExamples</string>
     <string name="httpClient">get JSON with HTTP Client</string>
     <string name="httpURLConnection">get JSON with HTTP Url Connection</string>
+    <string name="hello_fb">Hello APIs Facebook API example</string>
 
 </resources>

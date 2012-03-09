@@ -1,9 +1,12 @@
-package pl.mobiledeveloper;
+package pl.mobiledeveloper.helloapis.http;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
 import java.net.URL;
+
+import pl.mobiledeveloper.R;
+
 
 import android.app.Activity;
 import android.graphics.drawable.Drawable;

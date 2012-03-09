@@ -1,4 +1,4 @@
-package pl.mobiledeveloper;
+package pl.mobiledeveloper.helloapis.http;
 
 import java.net.URI;
 
